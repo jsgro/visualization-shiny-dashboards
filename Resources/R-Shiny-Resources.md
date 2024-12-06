@@ -4,6 +4,7 @@ A Shiny examples:
 
 - https://shiny.posit.co/r/getstarted/build-an-app/hello-shiny/getting-started.html
 - https://shiny.posit.co/r/gallery/interactive-visualizations/superzip-example/
+- [Geyser Shiny Modules](https://connect.doit.wisc.edu/geyserShinyModules) & [Geyser Demo](https://connect.doit.wisc.edu/geyserDemo)
 
 ### Gallery:
 
