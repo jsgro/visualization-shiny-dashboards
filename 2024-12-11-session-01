@@ -1,0 +1,16 @@
+# Inaugural session
+
+The first session of the new version of the R-Club, currently dedicated to R-Shiny was held on December 11, 2024.
+
+- Presenter: [Brian Yandell](https://stat.wisc.edu/staff/yandell-brian/), [Emeritus Professor](https://pages.stat.wisc.edu/~yandell/)
+
+-Topic: explore a shiny app from simple to more complex form using the "old faithful" geyser data built-in R dataset default installation.
+
+- Code: all code is at [github.com/byandell/geyser](https://github.com/byandell/geyser)
+
+- Live demo: using the code in the above link, the code in various forms was explored.
+
+- Main points:
+  - The code can be written in R Markdown as well as the new Quarto verion of markdown.
+  - Shiny app can be simple.
+  - Shiny app can be more elabrate by creating functions, and calling other shiny apps.
